@@ -7,8 +7,8 @@ from a1_support import *
 import random
 
 # Fill these in with your details
-__author__ = "{{Riley Mosca}} ({{45358195}})"
-__email__ = "s4535819@student.uq.edu.au"
+__author__ = "{{Riley Mosca}} ({{}})"
+__email__ = ""
 __date__ = "22/08/2020"
 
 
